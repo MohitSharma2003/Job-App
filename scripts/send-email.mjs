@@ -8,9 +8,9 @@ if (!draftPath) {
 
 const CREDS = 'C:\\Users\\Ankit Sharma\\.gmail-mcp\\credentials.json';
 const KEYS = 'C:\\Users\\Ankit Sharma\\.gmail-mcp\\gcp-oauth.keys.json';
-const RESUME = 'D:\\MohitJobApp\\resume\\Mohit_R_Sharma(Resume).pdf';
-const FROM_EMAIL = 'mohit.sharma.dev2580@gmail.com';
-const FROM_NAME = 'Mohit Sharma';
+const RESUME = 'D:\\MohitJobApp\\resume\\YOUR_RESUME.pdf';
+const FROM_EMAIL = 'YOUR_EMAIL@gmail.com';
+const FROM_NAME = 'Your Name';
 
 const creds = JSON.parse(await readFile(CREDS, 'utf8'));
 const keys = JSON.parse(await readFile(KEYS, 'utf8'));
@@ -51,7 +51,7 @@ if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(recipient)) {
 const pdf = await readFile(RESUME);
 const boundary = '----=_Part_' + Math.random().toString(16).slice(2, 12);
 const CRLF = '\r\n';
-const pdfName = 'Mohit_R_Sharma(Resume).pdf';
+const pdfName = 'YOUR_RESUME.pdf';
 
 let mime = '';
 mime += 'MIME-Version: 1.0' + CRLF;
@@ -89,3 +89,5 @@ const res = await fetch('https://gmail.googleapis.com/gmail/v1/users/me/messages
 const data = await res.json();
 if (!res.ok) throw new Error('Send failed: ' + JSON.stringify(data));
 console.log('SENT_OK id=' + data.id + ' threadId=' + data.threadId + ' to=' + recipient);
+
+
