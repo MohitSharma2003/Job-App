@@ -1,0 +1,21 @@
+RECIPIENT: shrinidhi@bhashsms.com
+SUBJECT: Application for Data Analyst Intern, Mohit Sharma
+
+[EMAIL BODY START]
+
+Hello Bhash Software Labs team,
+
+I would like to apply for the Data Analyst Intern opening at your Koramangala office that I found on LinkedIn.
+
+I recently completed my B.E. in Artificial Intelligence and Data Science, a program built around statistics, data analysis, database design and machine learning. I am comfortable working with Excel and Google Sheets, cleaning and organizing raw data, and putting together reports and dashboards that support decisions. I have also worked extensively with MongoDB and PostgreSQL in my projects, so I understand how data moves from raw sources into structures people actually use.
+
+During my R&D internship at NRSC, ISRO in Hyderabad, I built dashboards on top of real data and learned to present insights clearly to the team. I work carefully with numbers and I am used to meeting deadlines on live data.
+
+I understand the internship is six days a week in Koramangala. I am based in Nashik and willing to relocate to Bangalore. My resume is attached with my LinkedIn below.
+
+Mohit Sharma
+Phone: +91 7249496453
+Email: mohit.sharma.dev2580@gmail.com
+LinkedIn: https://linkedin.com/in/mohit-sharma-81a1ab256
+GitHub: https://github.com/MohitSharma2003
+Portfolio: https://mohitsharmaa.vercel.app

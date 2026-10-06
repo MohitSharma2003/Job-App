@@ -1,0 +1,21 @@
+RECIPIENT: indiacareers@emmes.com
+SUBJECT: Application for Full Stack Engineer (Fresher), Mohit Sharma
+
+[EMAIL BODY START]
+
+Hello Emmes team,
+
+I would like to apply for the Full Stack Engineer role for freshers in Bengaluru. The role covers the stack I work with daily, and it fits my recent graduation.
+
+I recently completed my B.E. in Artificial Intelligence and Data Science. During my R&D internship at NRSC, ISRO in Hyderabad, I worked directly with the engineering team on full stack application development, building interfaces and the services behind them.
+
+I build with the MERN stack, TypeScript, PostgreSQL and Docker, and I am comfortable with REST APIs, Git and GitHub. My most recent project, FindOP, is an opportunity intelligence platform with a React based interface over a TypeScript, Node.js and MongoDB backend, and I have worked on other projects along the way too.
+
+I am based in Nashik and willing to relocate to Bengaluru. My resume is attached, with my GitHub and portfolio below.
+
+Mohit Sharma
+Phone: +91 7249496453
+Email: mohit.sharma.dev2580@gmail.com
+LinkedIn: https://linkedin.com/in/mohit-sharma-81a1ab256
+GitHub: https://github.com/MohitSharma2003
+Portfolio: https://mohitsharmaa.vercel.app

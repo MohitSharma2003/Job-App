@@ -1,0 +1,21 @@
+RECIPIENT: ketaki.chikerur@aress.com
+SUBJECT: Application for Application / Technical Support Engineer (Fresher), Mohit Sharma
+
+[EMAIL BODY START]
+
+Hello Ketaki,
+
+I am writing to apply for the fresher openings at Aress Software in Nashik, for the Application Support Engineer and Technical Support Engineer positions. I recently saw the post and it looks like a strong match for my background.
+
+I recently completed my B.E. in Artificial Intelligence and Data Science. During my R&D internship at NRSC, ISRO in Hyderabad, I worked directly with the engineering team on full stack application development, which gave me hands on experience in shipping and maintaining production oriented features.
+
+I build with the MERN stack, TypeScript, PostgreSQL and Docker, and I am comfortable with REST APIs, debugging, and working through technical issues methodically. My most recent project, FindOP, is an opportunity intelligence platform with a TypeScript, Node.js and MongoDB backend, and I have built other projects along the way too.
+
+I am based in Nashik, so I can join in person right away and do not need any relocation support. My resume is attached, and my GitHub and portfolio are below.
+
+Mohit Sharma
+Phone: +91 7249496453
+Email: mohit.sharma.dev2580@gmail.com
+LinkedIn: https://linkedin.com/in/mohit-sharma-81a1ab256
+GitHub: https://github.com/MohitSharma2003
+Portfolio: https://mohitsharmaa.vercel.app

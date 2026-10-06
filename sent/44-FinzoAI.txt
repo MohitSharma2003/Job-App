@@ -1,0 +1,21 @@
+RECIPIENT: careers@finzo.ai
+SUBJECT: Application for Full Stack Developer Intern, Mohit Sharma
+
+[EMAIL BODY START]
+
+Hello Finzo AI team,
+
+I would like to apply for the Full Stack Developer Intern role. Building an AI execution layer for enterprise finance is the kind of problem I want to work on, since it combines solid backend engineering with applied AI.
+
+I recently completed my B.E. in Artificial Intelligence and Data Science. During my R&D internship at NRSC, ISRO in Hyderabad, I worked directly with the engineering team on full stack application development, and I built AI powered features as part of production oriented applications.
+
+I write backend code in Python and TypeScript, work with SQL databases, and build REST APIs. My most recent project, FindOP, is an opportunity intelligence platform with a TypeScript, Node.js and MongoDB backend and a data pipeline that runs on its own, and I have built other projects along the way.
+
+I integrate AI into my daily development workflow and review the code it produces. I am based in Nashik and open to remote work. My resume is attached, with my GitHub and portfolio below.
+
+Mohit Sharma
+Phone: +91 7249496453
+Email: mohit.sharma.dev2580@gmail.com
+LinkedIn: https://linkedin.com/in/mohit-sharma-81a1ab256
+GitHub: https://github.com/MohitSharma2003
+Portfolio: https://mohitsharmaa.vercel.app

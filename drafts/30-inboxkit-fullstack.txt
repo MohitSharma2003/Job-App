@@ -1,0 +1,21 @@
+RECIPIENT: hiring@inboxkit.com
+SUBJECT: Application for Full Stack Developer, Mohit Sharma
+
+[EMAIL BODY START]
+
+Hello Inboxkit team,
+
+I would like to apply for the Full Stack Developer role at Inboxkit. Building products across the whole stack is what I enjoy most, and your focus on developer tools and email infrastructure is close to the kind of software I have been working on recently.
+
+I recently completed my B.E. in Artificial Intelligence and Data Science. During my R&D internship at NRSC, ISRO in Hyderabad, I worked directly with the engineering team on full stack application development, integrating frontend work with Node.js services and databases.
+
+I build with the MERN stack: MongoDB, Express, React and Node.js, along with TypeScript and PostgreSQL. The job posting mentions Go as a plus, and I have experience with Go as well, having built backend services with it. My most recent project, FindOP, is an opportunity intelligence platform with a TypeScript, Node.js and MongoDB backend, and I have built other projects along the way too.
+
+I use Git and GitHub for version control and Docker for local and deployed environments. I am based in Nashik and willing to relocate to Gurugram. My resume is attached, with my GitHub and portfolio below.
+
+Mohit Sharma
+Phone: +91 7249496453
+Email: mohit.sharma.dev2580@gmail.com
+LinkedIn: https://linkedin.com/in/mohit-sharma-81a1ab256
+GitHub: https://github.com/MohitSharma2003
+Portfolio: https://mohitsharmaa.vercel.app

@@ -1,0 +1,21 @@
+RECIPIENT: info@venxr.tech
+SUBJECT: Application for Full Stack Developer Intern, Mohit Sharma
+
+[EMAIL BODY START]
+
+Hello Venxr team,
+
+I am writing to apply for the Full Stack Developer Intern role advertised on your careers page. An internship on AdTech and media automation with a monthly stipend is exactly the kind of start I am looking for as a fresh graduate.
+
+I recently completed my B.E. in Artificial Intelligence and Data Science. I work with Python alongside my main full stack stack, and during my R&D internship at NRSC, ISRO in Hyderabad I worked directly with the engineering team on full stack application development. My most recent project, FindOP, is an opportunity intelligence platform built with TypeScript, Node.js and MongoDB with a self healing data pipeline, and it is deployed and running.
+
+I am comfortable across the full stack, from designing REST APIs to building responsive interfaces, and I keep my code clean with Git and GitHub. I am used to picking up new tools quickly and reviewing my own work carefully.
+
+I am based in Nashik and willing to relocate to Pune, and I can join immediately. My resume is attached with my GitHub and portfolio below.
+
+Mohit Sharma
+Phone: +91 7249496453
+Email: mohit.sharma.dev2580@gmail.com
+LinkedIn: https://linkedin.com/in/mohit-sharma-81a1ab256
+GitHub: https://github.com/MohitSharma2003
+Portfolio: https://mohitsharmaa.vercel.app

@@ -1,0 +1,5 @@
+node_modules/
+.env
+C:\Users\Ankit Sharma\.gmail-mcp\credentials.json
+C:\Users\Ankit Sharma\.gmail-mcp\gcp-oauth.keys.json
+*.log

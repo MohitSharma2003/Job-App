@@ -1,0 +1,21 @@
+RECIPIENT: info@growati.com
+SUBJECT: Application for Software Engineer Intern, Mohit Sharma
+
+[EMAIL BODY START]
+
+Hello Growati team,
+
+I am writing to apply for the Software Engineer Intern role. A small team shipping real products means owning a feature end to end, and that is the environment where I learn fastest.
+
+I recently completed my B.E. in Artificial Intelligence and Data Science. During my R&D internship at NRSC, ISRO in Hyderabad, I worked directly with the engineering team on full stack application development, owning features from the database layer through to the interface.
+
+I build with React, Node.js, Express and MongoDB, along with TypeScript and Docker, and I am comfortable with REST APIs and Git and GitHub. My most recent project, FindOP, is an opportunity intelligence platform built on the MERN stack, and I have built other projects along the way.
+
+I am based in Nashik and available for remote work or relocation to Pune. My resume is attached, with my GitHub and portfolio below.
+
+Mohit Sharma
+Phone: +91 7249496453
+Email: mohit.sharma.dev2580@gmail.com
+LinkedIn: https://linkedin.com/in/mohit-sharma-81a1ab256
+GitHub: https://github.com/MohitSharma2003
+Portfolio: https://mohitsharmaa.vercel.app

@@ -1,0 +1,21 @@
+RECIPIENT: info@softcrayons.com
+SUBJECT: Application for Software Engineer (Developer), Mohit Sharma
+
+[EMAIL BODY START]
+
+Hello Softcrayons team,
+
+I am writing to apply for the Software Engineer (Developer) opening in Noida. I recently completed my B.E. in Artificial Intelligence and Data Science, and I am looking for a full time role where I can build production software as a developer.
+
+During my R&D internship at NRSC, ISRO in Hyderabad, I worked directly with the engineering team on full stack application development. I build with the MERN stack, TypeScript, PostgreSQL and Docker, and I am comfortable with REST APIs, Git and GitHub, and writing clean maintainable code.
+
+My most recent project, FindOP, is an opportunity intelligence platform with a React based interface over a TypeScript, Node.js and MongoDB backend. I have also worked on other projects along the way, which keeps me comfortable picking up new technology quickly.
+
+I am based in Nashik and willing to relocate to Noida. My resume is attached, with my GitHub and portfolio below.
+
+Mohit Sharma
+Phone: +91 7249496453
+Email: mohit.sharma.dev2580@gmail.com
+LinkedIn: https://linkedin.com/in/mohit-sharma-81a1ab256
+GitHub: https://github.com/MohitSharma2003
+Portfolio: https://mohitsharmaa.vercel.app

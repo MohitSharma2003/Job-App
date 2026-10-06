@@ -1,0 +1,21 @@
+RECIPIENT: prop.cid123@gmail.com
+SUBJECT: Application for Full Stack Developer, Mohit Sharma
+
+[EMAIL BODY START]
+
+Hello Propcid team,
+
+I am writing to apply for a full stack developer role with Propcid. I saw that the team hires junior engineers and interns, and I have been building full stack projects that fit what Propcid works on.
+
+I recently completed my B.E. in Artificial Intelligence and Data Science. During my R&D internship at NRSC, ISRO in Hyderabad, I worked directly with the engineering team on full stack application development.
+
+I build with the MERN stack, TypeScript, PostgreSQL and Docker, and I am comfortable with REST APIs and Git and GitHub. My most recent project, FindOP, is an opportunity intelligence platform with a React based interface over a TypeScript, Node.js and MongoDB backend, and I have worked on other projects along the way.
+
+I am based in Nashik and willing to relocate to the Noida area. My resume is attached, with my GitHub and portfolio below.
+
+Mohit Sharma
+Phone: +91 7249496453
+Email: mohit.sharma.dev2580@gmail.com
+LinkedIn: https://linkedin.com/in/mohit-sharma-81a1ab256
+GitHub: https://github.com/MohitSharma2003
+Portfolio: https://mohitsharmaa.vercel.app

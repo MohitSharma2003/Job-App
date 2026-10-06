@@ -1,0 +1,21 @@
+RECIPIENT: careers@taxosmart.com
+SUBJECT: Application for ReactJS Development Internship, Mohit Sharma
+
+[EMAIL BODY START]
+
+Hello TAXOSMART team,
+
+I would like to apply for the ReactJS Development Internship posted on your careers page. Building React frontends for domain products like tax and legal tech is exactly the kind of work I want to start my career with.
+
+I recently completed my B.E. in Artificial Intelligence and Data Science. React is the frontend library I work with most, and I regularly integrate React components with REST APIs. During my R&D internship at NRSC, ISRO in Hyderabad, I worked directly with the engineering team on full stack application development. My most recent project, FindOP, is an opportunity intelligence platform with a React based interface built on a TypeScript, Node.js and MongoDB backend.
+
+I focus on clean, readable components, responsive layouts and careful attention to how the interface behaves with real data. My portfolio site is also built in React, and my code is on GitHub below.
+
+I am based in Nashik and willing to relocate to Mumbai. I can join immediately. My resume is attached.
+
+Mohit Sharma
+Phone: +91 7249496453
+Email: mohit.sharma.dev2580@gmail.com
+LinkedIn: https://linkedin.com/in/mohit-sharma-81a1ab256
+GitHub: https://github.com/MohitSharma2003
+Portfolio: https://mohitsharmaa.vercel.app

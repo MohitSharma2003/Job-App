@@ -1,0 +1,52 @@
+Mohit Sharma
++91 7249496453|sharmamohit8624@gmail.com |linkedin.com/in/mohit-sharma-81a1ab256
+github.com/MohitSharma2003|mohitsharmaa.vercel.app
+Summary
+Software developer (B.E. in AI & Data Science, 2026) with R&D internship experience at NRSC, ISRO, building
+full-stack web applications and REST APIs with React.js, Node.js, MongoDB, and PostgreSQL, and deploying them
+with Docker.
+Education
+Sandip Institute of T echnology and Research Center (SITRC)Nashik, India
+Bachelor of Engineering in Artificial Intelligence & Data Science 2022 – 2026
+• CGP A:7.92/10.0 — Top 15% in the Batch
+Experience
+Research and Development Intern (On-Site)Sept. 2025 – Jan. 2026
+National Remote Sensing Center (NRSC), ISRO Hyderabad, India
+• Built full-stack web applications with Flask REST APIs and React.js frontends, including an automated solar panel
+detection system (94% precision) that serves YOLOv8 model predictions through a web interface.
+• Developed a voice-controlled weather application using React.js and the Web Speech API, integrated with ISRO’s
+KRITI geospatial chatbot.
+• Containerized machine learning models and MERN applications with Docker and DockerHub, reducing
+environment setup time by 60% and keeping development and production environments consistent.
+Projects
+FindOP — Opportunity Intelligence Platform|GitHub Aug. 2026
+React.js|TypeScript|Node.js|MongoDB|REST APIs|Web Scraping|Bright Data
+• Built a full-stack opportunity intelligence platform that aggregates, normalizes, validates, and serves developer
+opportunities through REST APIs using TypeScript, Node.js, MongoDB, and Bright Data.
+• Engineered a self-healing scraping pipeline that detects extraction failures, adapts to source changes, validates
+recovered data, and updates the platform through an automated ingestion workflow..
+HookFlow — Reliable W ebhook Delivery Platform|GitHub Sept. 2026
+PostgreSQL|Redis|REST APIs|Docker|Worker Pools|Go
+• Designed and built a webhook delivery backend using Go, PostgreSQL, and Redis, with asynchronous job
+processing and concurrent worker pools for reliable event delivery.
+• Implemented exponential-backoff retries, idempotency, and rate limiting to handle transient failures and prevent
+duplicate or excessive webhook deliveries.
+VIKAS — Solar Panel Detection W eb Application|GitHub Nov. 2025
+Python|Flask|REST APIs|Leaflet.js|YOLOv8|OpenCV
+• Built a Flask web application with RESTful APIs that runs YOLOv8 and OpenCV inference on satellite imagery to
+detect solar panels.
+• Implemented coordinate search, interactive Leaflet.js maps, CSV uploads, area scanning, and prediction history to
+support large-scale geospatial analysis.
+Skills
+Languages: TypeScript, JavaScript (ES6+), Go, Python, SQL
+F rontend: React.js, Tailwind CSS, Material UI, ShadCN UI, Responsive Design
+Backend: Node.js, Express.js, REST APIs, JWT Authentication, Prisma, Flask, Redis
+Databases: MongoDB, PostgreSQL
+CS F undamentals: Data Structures & Algorithms, OOP, DBMS, Software Engineering
+DevOps & T ools: Docker, DockerHub, Git, GitHub, Postman, Vercel, Render.
+Applied ML: YOLOv8, OpenCV, NLP
+Achievements
+•NIT Surat×Odoo Hackathon (Apr. 2025):Selected among 300+ teams across India to present a React.js,
+Node.js, and MongoDB solution before industry experts and startup mentors.
+•Research Publication, IJFMR (Oct. 2025):Published “AI-Based Multilingual Assistant for Crowd Navigation
+& Emergency Response” in the International Journal for Multidisciplinary Research.

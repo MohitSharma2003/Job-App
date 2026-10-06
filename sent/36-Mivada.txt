@@ -1,0 +1,21 @@
+RECIPIENT: careers@mivada.com
+SUBJECT: Application for Graduate Software Engineer, Mohit Sharma
+
+[EMAIL BODY START]
+
+Hello Mivada team,
+
+I would like to apply for the Graduate Software Engineer role in Hyderabad. The posting stood out because it is built for someone starting their career, and your work in automation and HR tech is an area I want to grow in.
+
+I recently completed my B.E. in Artificial Intelligence and Data Science. During my R&D internship at NRSC, ISRO in Hyderabad, I worked directly with the engineering team on full stack application development, and I am used to picking up new tools and workflows quickly.
+
+I build with the MERN stack, TypeScript, PostgreSQL and Docker, and I write clean, maintainable code that I keep on GitHub. My most recent project, FindOP, is an opportunity intelligence platform with a React based interface over a TypeScript, Node.js and MongoDB backend, and I have worked on other projects along the way.
+
+I am based in Nashik and willing to relocate to Hyderabad. My resume is attached, and my GitHub and portfolio are below.
+
+Mohit Sharma
+Phone: +91 7249496453
+Email: mohit.sharma.dev2580@gmail.com
+LinkedIn: https://linkedin.com/in/mohit-sharma-81a1ab256
+GitHub: https://github.com/MohitSharma2003
+Portfolio: https://mohitsharmaa.vercel.app
