@@ -1,0 +1,21 @@
+RECIPIENT: shivanshi@cleanomatics.com
+SUBJECT: Application for Software Developer Intern, Mohit Sharma
+
+[EMAIL BODY START]
+
+Hello Cleandomatics team,
+
+I am writing to apply for the Software Developer Intern role. Working on real software products and gaining hands-on experience with modern technologies is exactly what I am looking for at this stage.
+
+I recently completed my B.E. in Artificial Intelligence and Data Science. During my R&D internship at NRSC, ISRO in Hyderabad, I worked directly with the engineering team on full stack application development, shipping features across the stack.
+
+I build with the MERN stack, TypeScript, PostgreSQL, Docker, REST APIs, and Git and GitHub. My most recent project, FindOP, is an opportunity intelligence platform with a React frontend over a TypeScript, Node.js and MongoDB backend, and I have built other projects along the way.
+
+I am comfortable collaborating with a team, solving problems, and learning new tools quickly. I am based in Nashik and open to relocating for the right opportunity. My resume is attached, with my GitHub and portfolio below.
+
+Mohit Sharma
+Phone: +91 7249496453
+Email: mohit.sharma.dev2580@gmail.com
+LinkedIn: https://linkedin.com/in/mohit-sharma-81a1ab256
+GitHub: https://github.com/MohitSharma2003
+Portfolio: https://mohitsharmaa.vercel.app
