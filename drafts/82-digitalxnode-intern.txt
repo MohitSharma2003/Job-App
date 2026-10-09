@@ -1,0 +1,17 @@
+RECIPIENT: hr@digitalxnode.com
+SUBJECT: Application for Software Developer Intern, Mohit Sharma
+[EMAIL BODY START]
+Dear Hiring Team,
+
+I am Mohit Sharma, a final year B.E. student in Artificial Intelligence and Data Science with strong skills in MERN stack, PostgreSQL, REST APIs, Docker and Git/GitHub. I have hands on experience with TypeScript, Node.js and MongoDB building full stack applications. I am keen to apply these skills to real projects and contribute to scalable, reliable software solutions.
+
+I am writing to apply for the Software Developer Intern opening at DigitalXNode. I enjoy working across frontend and backend, writing clean code and solving practical problems. My internship at NRSC/ISRO provided exposure to structured R&D work and taught me to be detail oriented and collaborative. I am comfortable learning new tools and adapting quickly to project needs.
+
+I am open to working from Nashik, Mumbai, Pune, Hyderabad, Bengaluru, Delhi NCR, Chennai or Remote India. I am reliable, proactive and committed to delivering quality work. I would welcome the opportunity to contribute to your team from day one and grow with DigitalXNode while supporting its technical goals.
+
+I look forward to speaking with you further about how I can add value to DigitalXNode. Thank you for your time and consideration. Please find my resume attached.
+
+Mohit Sharma
+B.E. AI and Data Science
+Nashik, India
+mohitsharmadev2580@gmail.com
