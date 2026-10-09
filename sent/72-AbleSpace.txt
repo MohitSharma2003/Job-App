@@ -1,0 +1,17 @@
+RECIPIENT: careers@ablespace.in
+SUBJECT: Application for Software Developer Intern, Mohit Sharma
+[EMAIL BODY START]
+Dear Hiring Team,
+
+I am Mohit Sharma, a final year B.E. student in Artificial Intelligence and Data Science with skills in MERN stack, PostgreSQL, REST APIs, Docker and Git/GitHub. I have hands on experience with TypeScript, Node.js and MongoDB building full stack applications. I am keen to apply these skills to practical projects and contribute to reliable software solutions.
+
+I am writing to apply for the Software Developer Intern opening at AbleSpace. I enjoy working across frontend and backend, writing clean code and solving real problems. My internship at NRSC/ISRO gave me exposure to structured R&D work, attention to detail and collaboration in a professional environment. I learn new tools quickly and adapt to evolving requirements.
+
+I am open to roles based in Nashik, Mumbai, Pune, Hyderabad, Bengaluru, Delhi NCR, Chennai or Remote India. I am proactive, dependable and committed to delivering quality work. I would welcome the opportunity to contribute to your team from day one and grow with AbleSpace.
+
+I look forward to speaking with you further about how I can add value to AbleSpace. Thank you for your time and consideration. Please find my resume attached.
+
+Mohit Sharma
+B.E. AI and Data Science
+Nashik, India
+mohitsharmadev2580@gmail.com
